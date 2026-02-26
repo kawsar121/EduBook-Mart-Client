@@ -52,7 +52,7 @@ EduBook_Mart/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/kawsar121/EduBook-Mart-Server.git
+git clone https://github.com/kawsar121/EduBook-Mart-Client.git
 2️⃣ Install Dependencies
 Backend
 cd server
