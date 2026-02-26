@@ -1,7 +1,6 @@
 # 📚 EduBook Mart
 
-EduBook Mart is a MERN Stack based web application designed for students to buy and sell new and used books easily.  
-This platform helps students save money by exchanging books within the student community.
+EduBook Mart is a MERN Stack based web application designed for students to buy and sell new and used books easily. This platform helps students save money by exchanging books within the student community.
 
 ---
 
